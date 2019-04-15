@@ -1,0 +1,10 @@
+{
+    "description": "curl-for-win",
+    "name": "tool-curl-for-win",
+    "system": [
+        "windows",
+        "windows_amd64"
+    ],
+    "url": "https://bintray.com/vszakats/generic/download_file?file_path=curl-7.64.1-win64-mingw.tar.xz",
+    "version": "7.64.1"
+}
