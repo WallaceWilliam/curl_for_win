@@ -1,1 +1,2 @@
-# curl_for_win
+# CURL
+https://github.com/curl/curl-for-win
