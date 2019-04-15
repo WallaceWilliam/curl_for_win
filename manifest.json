@@ -1,7 +1,6 @@
    {
       "tool-curl-for-win": [
         {
-          "system": "*",
           "url": "https://github.com/WallaceWilliam/curl_for_win/raw/master/curl-7.64.1-win64-mingw.tar.gz",
           "version": "7.64.1"
         }
